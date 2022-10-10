@@ -2,21 +2,30 @@ Affektert = tilgjort, påtatt
 uvøre = sjødesløs, uforsiktig, uaktsom, slurvete
 clairvoyant
 Eklatant = åpenbart, slående, iøynefallende, oppsiktsvekkende
+rask prolog
 velsoignert = velpleiet
+fekte med fun facts
+nebuløs = tåkete, vag, diffus
+Sisyfos = rulle en stein opp på et fjell, men hver gang han nådde toppen, rullet steinen ned igjen
 prøv det på deg selv 
 tørrdrukne
+gestalte = gi liv til, rolle i teater eller på film
+aforisme = kort setning, et løsrevet sitat eller en strøtanke som på en treffende og underfundig måte uttrykker et tankevekkende poeng
 Doktrine = læresetning
 Prevalens = hvor mange i en gruppe har tilstand
+You get more of whatever you reward (or less of whatever you punish). They are measuring activity, not productivity.  As a result, they will get more activity.
 følelsespremiering
 tidskoloritt = virkemidler som gir preg av en bestemt tid
 Patrisierne plebeier
 sus i serken = fart i sakene
 mad max eller star trek
+arkaisme = foreldet, alderdommelig
 sarkofag = monumental likkiste
 mangslungen
 Casus belli = «årsak til krig»
 beste i veien for det gode
 bootleg Jeremy Lin
+Emergence = existence or formation of collective behaviors — what parts of a system do together that they would not do alone
 Ceteris paribus = alt annet likt
 målforskyvning¨
 Outrert = altfor utpreget, overdrevent moderne eller avstikkende
@@ -28,11 +37,13 @@ kaosrytter
 Eskapisme = virkelighetsflukt
 pygmé
 kosmopolitisk narcissist 
+Koryfé = fordanseren, forsangeren eller korføreren i det klassiske greske teateret
 tankepolitiet
 grasiøst
 task failed successfully 
 anfektelse =  tanke som volder indre/sinnsuro/samvittighetsnag
 regress
+banebrytende
 damoklessverd = overhengende, truende fare
 fuglehandler 1 og 1 frø
 fallen frukt
@@ -59,7 +70,7 @@ Tvisyn, dobbeltsyn, evnen til samtidig å se både retten og vrangen, det tragis
 stempelmotoren
 viljen, ikke skjebnen
 Repatriering =  sende noen tilbake til hjemlandet
-lumsk - farlig uten å bære preg av de
+lumsk - farlig uten å bære preg av det
 finesse 
 kafkafelle
 Verden vil bedras, Mundus vult decipi
@@ -93,7 +104,7 @@ avtagende marginalnytte
 diskrepans
 megetsigende = som tydelig og uten ord forteller/røper noe
 sjofelt
-migitere 
+mitigere = dempe, lindre, mildne,svekke
 dristig 
 grotesk fordreining av virkeligheten
 unnlatelelsessynd
@@ -252,12 +263,14 @@ forførerisk
 trampet i klaveret 
 kurskorrigering
 uærbødig = respektløs
+Fibonacci-tallene. De består av 0,1,1,2,3,5,8,13,21,34,... Hvert tall i følgen er summen av de to foregående
 klossete 
 Universalgeni = polymath = renessansemann
 Oklokrati eller oklarki = pøbelvelde
 punching above their weight = ute av liga
 tiraden
 atomklokkepresisjon
+surstofflengsel
 Kjølhaling = festet i et tau og dratt under skroget
 Enigmatisk = gåtefull
 uutgrunnelig = uransakelig	
